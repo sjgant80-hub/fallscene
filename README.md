@@ -1,6 +1,6 @@
 # FallScene
 
-**Sovereign 3D scene builder · single HTML file · prime 479 · v1.0.0**
+**Sovereign 3D scene builder · single HTML file · prime 1453 · v1.0.0**
 
 The Dimension wedge of **FallStudio** (phase 3). Replaces Adobe Dimension for basic 3D scene composition: drop primitives, push lights around, render a frame, export GLB. Runs from `file://`. No account, no cloud, no telemetry.
 
@@ -69,7 +69,7 @@ When unpkg is unreachable, the canvas stays blank but every other shell feature 
 - `BroadcastChannel('fall-signal')` for inter-tool hello/ping/pong
 - `postMessage` API: `{target:'fallscene',action:'ping|add|export-png|state',kind,opts}`
 - PWA manifest baked via `data:` URL
-- Prime: **479**
+- Prime: **1453**
 
 ### File deliverables
 

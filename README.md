@@ -1,5 +1,7 @@
 # FallScene
 
+**Live:** [sjgant80-hub.github.io/fallscene](https://sjgant80-hub.github.io/fallscene/)
+
 **Sovereign 3D scene builder · single HTML file · prime 1453 · v1.0.0**
 
 The Dimension wedge of **FallStudio** (phase 3). Replaces Adobe Dimension for basic 3D scene composition: drop primitives, push lights around, render a frame, export GLB. Runs from `file://`. No account, no cloud, no telemetry.
